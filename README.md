@@ -1,4 +1,4 @@
-# gwt-knowledge
+# GWT Knowledge
 Collection of GWT knowledge and resources
 
 
