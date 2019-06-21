@@ -12,4 +12,28 @@ Collection of GWT knowledge and resources
 
 ## J2CL
 
+### J2CL Maven Plugin
+
+#### Repo
 https://repo.vertispan.com/j2cl/com/vertispan/j2cl/j2cl-maven-plugin/
+
+#### Configuration
+```xml
+<plugin>
+  <groupId>com.vertispan.j2cl</groupId>
+    <artifactId>j2cl-maven-plugin</artifactId>
+    <version>0.1-SNAPSHOT</version>
+    <executions>
+      <execution>
+        <id>build-js</id>
+        <phase>process-classes</phase>
+          <goals>
+            <goal>build</goal>
+          </goals>
+        </execution>
+    </executions>
+    <configuration>
+      <entrypoint>com.example.my.EntryPoint</entrypoint>
+    </configuration>
+</plugin>
+```
