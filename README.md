@@ -37,3 +37,17 @@ https://repo.vertispan.com/j2cl/com/vertispan/j2cl/j2cl-maven-plugin/
     </configuration>
 </plugin>
 ```
+
+#### Entrypoint
+
+```MyEntryPoint.native.js```
+```javascript
+setTimeout(function(){
+  // Call the java "constructor" method, `new` will only work if it is a @JsType, or maybe
+  // once optimized. Without this, in BUNDLE mode, `new` doesn't include the clinit, so
+  // static imports haven't been resolved yet.
+  var ep = MyEntryPoint.$create__();
+  // Invoke onModuleLoad to start the app.
+  ep.m_onModuleLoad__()
+}, 0);
+```
