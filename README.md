@@ -22,7 +22,7 @@ https://repo.vertispan.com/j2cl/com/vertispan/j2cl/j2cl-maven-plugin/
 <plugin>
   <groupId>com.vertispan.j2cl</groupId>
     <artifactId>j2cl-maven-plugin</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.11-SNAPSHOT</version>
     <executions>
       <execution>
         <id>build-js</id>
