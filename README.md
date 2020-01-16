@@ -51,3 +51,7 @@ setTimeout(function(){
   ep.m_onModuleLoad__()
 }, 0);
 ```
+
+## JsInterop
+
+[JsInterop knowledge from VueGWT site](https://vuegwt.github.io/vue-gwt/guide/gwt-integration/js-interop.html)
