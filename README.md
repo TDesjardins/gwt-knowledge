@@ -59,3 +59,6 @@ setTimeout(function(){
 * [Elemental2 (Type checked access to browser APIs for Java code)](https://github.com/google/elemental2)
 * [JsInterop knowledge from VueGWT site](https://vuegwt.github.io/vue-gwt/guide/gwt-integration/js-interop.html)
 * [Nice short introduction to JsInterop](http://www.luigibifulco.it/blog/en/blog/gwt-2-8-0-jsinterop)
+
+## Miscellaneous
+* [Reduce compile time (also relevant for non gxt projects)](https://www.sencha.com/blog/how-to-reduce-compilation-time-for-your-gxt-projects/)
