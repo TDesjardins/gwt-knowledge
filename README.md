@@ -10,6 +10,8 @@ Collection of GWT knowledge and resources
 
 [List of module migration state](https://docs.google.com/spreadsheets/d/1b1D9fEqRh5lZ8cqMJtYoc_25rfTRvsuJkTtS2vjgi3o/edit#gid=0)
 
+[List of module migration progress](https://docs.google.com/spreadsheets/d/15WXfiklnTeqjRLI8gKj5iyGk7iDhnuQHGcpYJgpNlmQ/edit#gid=0)
+
 ## J2CL
 
 ### J2CL Maven Plugin
@@ -22,7 +24,7 @@ https://repo.vertispan.com/j2cl/com/vertispan/j2cl/j2cl-maven-plugin/
 <plugin>
   <groupId>com.vertispan.j2cl</groupId>
     <artifactId>j2cl-maven-plugin</artifactId>
-    <version>0.11-SNAPSHOT</version>
+    <version>0.13-SNAPSHOT</version>
     <executions>
       <execution>
         <id>build-js</id>
