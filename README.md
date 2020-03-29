@@ -15,6 +15,9 @@ Collection of GWT knowledge and resources
 
 ### J2CL Maven Plugin
 
+#### Source code
+https://github.com/Vertispan/j2clmavenplugin
+
 #### Repo
 https://repo.vertispan.com/j2cl/com/vertispan/j2cl/j2cl-maven-plugin/
 
