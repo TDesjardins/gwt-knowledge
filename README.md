@@ -7,9 +7,10 @@ Collection of GWT knowledge and resources
 ### Module Migration
 
 * [Common info about GWT module migration](https://github.com/Vertispan/some-gwt-module)
-* [GWT Module Migration Guide](https://github.com/FrankHossfeld/gwt-modules-migration)
-* [List of module migration state](https://docs.google.com/spreadsheets/d/1b1D9fEqRh5lZ8cqMJtYoc_25rfTRvsuJkTtS2vjgi3o/edit#gid=0)
-* [List of module migration progress](https://docs.google.com/spreadsheets/d/15WXfiklnTeqjRLI8gKj5iyGk7iDhnuQHGcpYJgpNlmQ/edit#gid=0)
+* [GWT Module migration guide](https://github.com/FrankHossfeld/gwt-modules-migration)
+* [GWT-Modules release checklist](https://docs.google.com/document/d/1fTRTSMA_Nsmiam9YUSrVlQQL02C6YGjWw5QRn6NpdCQ/)
+* [List of module migration state](https://docs.google.com/spreadsheets/d/1b1D9fEqRh5lZ8cqMJtYoc_25rfTRvsuJkTtS2vjgi3o/)
+* [List of module migration progress](https://docs.google.com/spreadsheets/d/15WXfiklnTeqjRLI8gKj5iyGk7iDhnuQHGcpYJgpNlmQ/)
 
 ## J2CL
 
