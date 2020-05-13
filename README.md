@@ -70,3 +70,4 @@ setTimeout(function(){
 * [Curated list of GWT related news, links, blogs and libraries (by awesomegwt)](https://gwt.zeef.com/awesomegwt)
 * [Modern GWT, first steps](https://dev.to/ibaca/modern-gwt-first-steps-509k)
 * [Modern GWT, Introduction (slides from Dr. Lofi Dewanto)](https://docs.google.com/presentation/d/1cr-rYGz58ngC6sgOy8c7oErhaj0VdLUHk9Y5mcvgrP0/edit#slide=id.p)
+* [5 Pillars of a Successful Java Web Application](https://medium.com/kie-foundation/5-pillars-of-a-successful-java-web-application-57f7632d1562)
