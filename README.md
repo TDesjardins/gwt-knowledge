@@ -67,9 +67,14 @@ setTimeout(function(){
 
 * [JsInterop specification v1.0](https://docs.google.com/document/d/10fmlEYIHcyead_4R1S5wKGs1t2I7Fnp_PaNaa7XTEk0/edit#heading=h.o7amqk9edhb9)
 * [jsinterop-base (Utilities for GWT and J2CL to interact with JavaScript beyond JsInterop)](https://github.com/google/jsinterop-base)
-* [Elemental2 (Type checked access to browser APIs for Java code)](https://github.com/google/elemental2)
+
 * [JsInterop knowledge from VueGWT site](https://vuegwt.github.io/vue-gwt/guide/gwt-integration/js-interop.html)
 * [Nice short introduction to JsInterop](http://www.luigibifulco.it/blog/en/blog/gwt-2-8-0-jsinterop)
+
+## Elemental2
+
+* [Elemental2 (Type checked access to browser APIs for Java code)](https://github.com/google/elemental2)
+* [File DnD Example (by Brandon Donnelson)](https://gist.github.com/branflake2267/8f99301a21944f54ca76b556e4a32a9d)
 
 ## Miscellaneous
 * [Reduce compile time (also relevant for non gxt projects)](https://www.sencha.com/blog/how-to-reduce-compilation-time-for-your-gxt-projects/)
