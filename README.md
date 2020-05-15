@@ -74,6 +74,7 @@ setTimeout(function(){
 
 * [Elemental2 (Type checked access to browser APIs for Java code)](https://github.com/google/elemental2)
 * [File DnD Example (by Brandon Donnelson)](https://gist.github.com/branflake2267/8f99301a21944f54ca76b556e4a32a9d)
+* [Canvas and 2D Context use(by Brandon Donnelson)](https://gist.github.com/branflake2267/8e4b9d4f2dc594fe21a125155516ec97)
 
 ## Miscellaneous
 * [Reduce compile time (also relevant for non gxt projects)](https://www.sencha.com/blog/how-to-reduce-compilation-time-for-your-gxt-projects/)
