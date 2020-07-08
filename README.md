@@ -63,6 +63,10 @@ setTimeout(function(){
 }, 0);
 ```
 
+### Links
+
+* [Reverse-engineering J2CL–Bazel integration](https://blog.ltgt.net/reverse-engineering-j2cl-bazel-integration/)
+
 ## JsInterop
 
 * [JsInterop specification v1.0](https://docs.google.com/document/d/10fmlEYIHcyead_4R1S5wKGs1t2I7Fnp_PaNaa7XTEk0/edit#heading=h.o7amqk9edhb9)
