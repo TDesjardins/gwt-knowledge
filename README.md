@@ -66,6 +66,7 @@ setTimeout(function(){
 ### Links
 
 * [Reverse-engineering J2CL–Bazel integration](https://blog.ltgt.net/reverse-engineering-j2cl-bazel-integration/)
+* [Designing a Gradle plugin for J2CL](https://dev.to/tbroyer/designing-a-gradle-plugin-for-j2cl-c7k)
 
 ## JsInterop
 
