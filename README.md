@@ -88,3 +88,4 @@ setTimeout(function(){
 * [Modern GWT, Introduction (slides from Dr. Lofi Dewanto)](https://docs.google.com/presentation/d/1cr-rYGz58ngC6sgOy8c7oErhaj0VdLUHk9Y5mcvgrP0/edit#slide=id.p)
 * [5 Pillars of a Successful Java Web Application](https://medium.com/kie-foundation/5-pillars-of-a-successful-java-web-application-57f7632d1562)
 * [Using webworkers in GWT](https://gitlab.com/ManfredTremmel/gwt-webworker)
+* [GWT emulation classes (source code)](https://github.com/gwtproject/gwt/tree/master/user/super/com/google/gwt/emul)
