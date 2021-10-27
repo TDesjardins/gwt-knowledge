@@ -8,5 +8,10 @@ for (int j = 0; j < intArray.length; j++) byteArray[j] = (byte) intArray[j];
 
 Parse JSON
 ```java
-Object parsedObject = Global.JSON.parse(text)
+Object parsedObject = Global.JSON.parse(text);
+```
+
+Write JSON
+```java
+String json = Global.JSON.stringify(object);
 ```
