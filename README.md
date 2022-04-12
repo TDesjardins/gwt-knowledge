@@ -65,6 +65,7 @@ setTimeout(function(){
 
 ### Links
 
+* [RISE OF J2CL: JAVA WEB DEVELOPMENT AFTER GWT](https://blog.kie.org/2022/04/rise-of-j2cl-java-web-development-after-gwt.html)
 * [Reverse-engineering J2CL–Bazel integration](https://blog.ltgt.net/reverse-engineering-j2cl-bazel-integration/)
 * [Designing a Gradle plugin for J2CL](https://dev.to/tbroyer/designing-a-gradle-plugin-for-j2cl-c7k)
 * [Deploy GWT / J2CL Web Apps on Azure Static Web Apps Service](https://medium.com/geekculture/deploy-gwt-j2cl-web-apps-on-azure-static-web-apps-service-effddb6f4047)
