@@ -67,6 +67,8 @@ setTimeout(function(){
 ### Links
 
 * [RISE OF J2CL: JAVA WEB DEVELOPMENT AFTER GWT](https://blog.kie.org/2022/04/rise-of-j2cl-java-web-development-after-gwt.html)
+* [Java for web frontend developers, part 1 (Dmitrii Tikhomirov)](https://dev.to/treblereel/java-for-web-frontend-developers-part-1-generating-a-simple-project-41jp)
+* [Java for web frontend developers, part 2 (Dmitrii Tikhomirov)](https://dev.to/treblereel/java-for-web-frontend-developers-part-2-getting-started-with-j2cl-314g)
 * [Reverse-engineering J2CL–Bazel integration](https://blog.ltgt.net/reverse-engineering-j2cl-bazel-integration/)
 * [Designing a Gradle plugin for J2CL](https://dev.to/tbroyer/designing-a-gradle-plugin-for-j2cl-c7k)
 * [Deploy GWT / J2CL Web Apps on Azure Static Web Apps Service](https://medium.com/geekculture/deploy-gwt-j2cl-web-apps-on-azure-static-web-apps-service-effddb6f4047)
