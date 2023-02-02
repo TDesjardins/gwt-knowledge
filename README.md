@@ -95,3 +95,4 @@ setTimeout(function(){
 * [5 Pillars of a Successful Java Web Application](https://medium.com/kie-foundation/5-pillars-of-a-successful-java-web-application-57f7632d1562)
 * [Using webworkers in GWT](https://gitlab.com/ManfredTremmel/gwt-webworker)
 * [GWT emulation classes (source code)](https://github.com/gwtproject/gwt/tree/master/user/super/com/google/gwt/emul)
+* [Dynamite Duo: GWT Boot and Spring Boot (article by Dr. Lofi Dewanto)](https://medium.com/geekculture/dynamite-duo-gwt-boot-and-spring-boot-e5a966782344)
