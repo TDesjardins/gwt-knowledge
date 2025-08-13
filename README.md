@@ -81,7 +81,7 @@ setTimeout(function(){
 * [Nice short introduction to JsInterop](http://www.luigibifulco.it/blog/en/blog/gwt-2-8-0-jsinterop)
 
 ## Elemental2
-
+* [Javadoc](https://javadoc.io/doc/com.google.elemental2/elemental2-dom/latest/elemental2/dom/package-summary.html)
 * [Elemental2 (Type checked access to browser APIs for Java code)](https://github.com/google/elemental2)
 * [File DnD Example (by Brandon Donnelson)](https://gist.github.com/branflake2267/8f99301a21944f54ca76b556e4a32a9d)
 * [Canvas and 2D Context use(by Brandon Donnelson)](https://gist.github.com/branflake2267/8e4b9d4f2dc594fe21a125155516ec97)
