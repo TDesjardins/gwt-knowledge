@@ -97,3 +97,4 @@ setTimeout(function(){
 * [Using webworkers in GWT](https://gitlab.com/ManfredTremmel/gwt-webworker)
 * [GWT emulation classes (source code)](https://github.com/gwtproject/gwt/tree/master/user/super/com/google/gwt/emul)
 * [Dynamite Duo: GWT Boot and Spring Boot (article by Dr. Lofi Dewanto)](https://medium.com/geekculture/dynamite-duo-gwt-boot-and-spring-boot-e5a966782344)
+* [Three.js for Java devs: J2CL, Closure, Bazel, etc ...](https://dev.to/treblereel/threejs-for-java-devs-j2cl-closure-bazel-etc--28kc)
