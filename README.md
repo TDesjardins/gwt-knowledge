@@ -72,6 +72,7 @@ setTimeout(function(){
 * [Reverse-engineering J2CL–Bazel integration](https://blog.ltgt.net/reverse-engineering-j2cl-bazel-integration/)
 * [Designing a Gradle plugin for J2CL](https://dev.to/tbroyer/designing-a-gradle-plugin-for-j2cl-c7k)
 * [Deploy GWT / J2CL Web Apps on Azure Static Web Apps Service](https://medium.com/geekculture/deploy-gwt-j2cl-web-apps-on-azure-static-web-apps-service-effddb6f4047)
+* [GraalVM + WASM from the Perspective of a J2CL/GWT Developer](https://dev.to/treblereel/graalvm-wasm-from-the-perspective-of-a-j2clgwt-developer-4i)
 
 ## JsInterop
 
